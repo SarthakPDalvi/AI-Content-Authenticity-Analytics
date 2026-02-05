@@ -1,0 +1,1 @@
+I started learning data analysis during my final year of college. At first, SQL felt overwhelming, especially joins and subqueries. Over time, solving real-world problems helped me connect theory with practice, and I began enjoying the logical aspect of querying data.

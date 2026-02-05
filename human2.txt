@@ -1,0 +1,1 @@
+While working on my first internship, I realized that dashboards alone do not tell the full story. Interpreting trends, asking the right questions, and explaining insights clearly mattered more than fancy visualizations.
